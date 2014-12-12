@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="target">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/multi1/target/multi1-2.20-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/multi1/target/multi1-2.20-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/multi1/target/multi1-2.20-SNAPSHOT-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

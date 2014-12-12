@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="multi2-2.20-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/multi2/target/multi2-2.20-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
