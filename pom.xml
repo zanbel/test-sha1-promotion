@@ -25,13 +25,13 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-		<distributionManagement>
-    <snapshotRepository>
-        <id>artifactoryui</id>
-        <name>artifactoryui-snapshots</name>
-        <url>http://artifactoryui.artifactoryonline.com/artifactoryui/ext-snapshots-local</url>
-    </snapshotRepository>
-</distributionManagement>
+    <distributionManagement>
+        <snapshotRepository>
+            <id>artifactoryui</id>
+            <name>artifactoryui-snapshots</name>
+            <url>http://artifactoryui.artifactoryonline.com/artifactoryui/ext-snapshots-local</url>
+        </snapshotRepository>
+    </distributionManagement>
     <build>
         <pluginManagement>
             <plugins>
