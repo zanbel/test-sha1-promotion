@@ -11,6 +11,7 @@
         <module>multi1</module>
         <module>multi2</module>
         <module>multi3</module>
+        <module>multi4</module>
     </modules>
 
     <properties>

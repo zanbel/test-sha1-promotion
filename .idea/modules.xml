@@ -9,6 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/multi1/multi1.iml" filepath="$PROJECT_DIR$/multi1/multi1.iml" />
       <module fileurl="file://$PROJECT_DIR$/multi2/multi2.iml" filepath="$PROJECT_DIR$/multi2/multi2.iml" />
       <module fileurl="file://$PROJECT_DIR$/multi3/multi3.iml" filepath="$PROJECT_DIR$/multi3/multi3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi4/multi4.iml" filepath="$PROJECT_DIR$/multi4/multi4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi4/multi4/multi4.iml" filepath="$PROJECT_DIR$/multi4/multi4/multi4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mutli4/mutli4.iml" filepath="$PROJECT_DIR$/mutli4/mutli4.iml" />
       <module fileurl="file://$PROJECT_DIR$/multi1/src/test/test.iml" filepath="$PROJECT_DIR$/multi1/src/test/test.iml" />
       <module fileurl="file://$PROJECT_DIR$/multi3/src/test/test1.iml" filepath="$PROJECT_DIR$/multi3/src/test/test1.iml" />
       <module fileurl="file://$PROJECT_DIR$/multi2/src/test/test2.iml" filepath="$PROJECT_DIR$/multi2/src/test/test2.iml" />
